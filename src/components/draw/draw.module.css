@@ -1,0 +1,23 @@
+.page {
+  width: 19px;
+  background-color: #f9f9f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.test-div {
+  width: 19px;
+  height: 30px;
+  background-color: #666;
+  overflow: hidden;
+  display: flex;
+}
+.scroll-bg {
+  width: 19px;
+  height: auto;
+}
+.img {
+  display: block;
+  width: 19px;
+  height: auto;
+}
